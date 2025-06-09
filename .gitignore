@@ -1,4 +1,3 @@
-.venv
-data/
-*.csv
+venv-week2/
 ipynb_checkpoints/
+.venv/
